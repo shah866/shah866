@@ -11,7 +11,7 @@
 ### About Me 🌟
 - 💻 I’m currently learning React Web Develpment, SpringBoot and Docker
 - 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
-- 📫 Contact me: malakkh232@gmail.com
+- 📫 Contact me: shahdqattoush@gmail.com
 
 ---
 
